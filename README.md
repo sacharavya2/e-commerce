@@ -1,3 +1,6 @@
 # e-commerce
 
-# Basic Web APP for college project, using react-js, Nodejs, ExpressJs and mongoDB.
+# Basic single vendor e-commerce Web APP, using react-js, Nodejs, ExpressJs and mongoDB.
+
+
+#
